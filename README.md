@@ -1,1 +1,1 @@
-# Hau de Gang nei
+# Beinhaltet alle Codes zum Thema Natural Language Processing
